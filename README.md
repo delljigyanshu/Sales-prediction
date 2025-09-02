@@ -9,22 +9,22 @@ A machine learning project for predicting sales using **XGBRegressor**, built wi
 
 ## ✨ Features  
 
-- 📊 *Data preprocessing* and feature engineering on sales dataset  
-- 🤖 *XGBRegressor model* for regression-based prediction  
-- 📈 *Evaluation metrics* (MAE, MSE, RMSE, R²) for performance check  
-- 📉 *Visualization of sales trends* using Matplotlib  
-- ⚡ *Efficient & accurate* regression pipeline  
+- 📊 *Data preprocessing* and feature engineering on sales dataset  <br/>
+- 🤖 *XGBRegressor model* for regression-based prediction  <br/>
+- 📈 *Evaluation metrics* (MAE, MSE, RMSE, R²) for performance check  <br/>
+- 📉 *Visualization of sales trends* using Matplotlib  <br/>
+- ⚡ *Efficient & accurate* regression pipeline  <br/>
 
 ---
 
 ## 📦 Project Structure  
 
-sales-prediction/
-├── sales.csv # Dataset used for training/testing
-├── sales_prediction.ipynb # Jupyter Notebook with model & analysis
-├── model.pkl # Saved XGBRegressor model
-├── requirements.txt # Required dependencies
-└── README.md # Project documentation
+sales-prediction/ <br/>
+├── sales.csv # Dataset used for training/testing  <br/>
+├── sales_prediction.ipynb # Jupyter Notebook with model & analysis <br/>
+├── model.pkl # Saved XGBRegressor model <br/>
+├── requirements.txt # Required dependencies <br/>
+└── README.md # Project documentation <br/>
 
 
 ---
@@ -48,23 +48,23 @@ sales-prediction/
 ```
 
 ## 🛠 Built With
-- Python 🐍
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- XGBoost (XGBRegressor)
-- Jupyter Notebook
+- Python 🐍 <br/>
+- Pandas <br/>
+- NumPy <br/>
+- Matplotlib <br/>
+- Scikit-learn <br/>
+- XGBoost (XGBRegressor) <br/>
+- Jupyter Notebook <br/>
 
 ## ✏ Customization Ideas
 
-📊 Add interactive dashboards with Plotly or Power BI
-🔍 Experiment with other regression models (Linear Regression, Random Forest, LightGBM)
-🌐 Deploy as a Flask/Django web app for real-time sales prediction
-📡 Connect with live sales data API for dynamic predictions
+📊 Add interactive dashboards with Plotly or Power BI <br/> 
+🔍 Experiment with other regression models (Linear Regression, Random Forest, LightGBM) <br/>
+🌐 Deploy as a Flask/Django web app for real-time sales prediction <br/>
+📡 Connect with live sales data API for dynamic predictions <br/>
 
 ## 🙋‍♂ Author
 
-Jigyanshu Agrawal
+Jigyanshu Agrawal 
 GitHub: [@delljigyanshu](https://github.com/delljigyanshu)
 LinkedIn: [Jigyanshu Agrawal](https://www.linkedin.com/in/jigyanshu-agrawal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
