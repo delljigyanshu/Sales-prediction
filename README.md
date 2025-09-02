@@ -6,12 +6,6 @@ A machine learning project for predicting sales using **XGBRegressor**, built wi
 
 ---
 
-## 🔗 Live Demo  
-
-Check out the live notebook/project here:  
-👉 [Link](https://github.com/delljigyanshu/Sales-prediction)  
-
----
 
 ## ✨ Features  
 
