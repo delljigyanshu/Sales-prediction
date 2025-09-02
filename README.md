@@ -65,6 +65,6 @@ sales-prediction/ <br/>
 
 ## 🙋‍♂ Author
 
-Jigyanshu Agrawal 
-GitHub: [@delljigyanshu](https://github.com/delljigyanshu)
-LinkedIn: [Jigyanshu Agrawal](https://www.linkedin.com/in/jigyanshu-agrawal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Jigyanshu Agrawal <br/>
+GitHub: [@delljigyanshu](https://github.com/delljigyanshu) <br/>
+LinkedIn: [Jigyanshu Agrawal](https://www.linkedin.com/in/jigyanshu-agrawal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/>
